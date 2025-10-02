@@ -14,7 +14,7 @@ int main(){
             printf("%d 元",h);
         }
         else{
-        printf("%d\n",i);
+            printf("%d 元",i);
         }
     }
     
